@@ -1,8 +1,10 @@
 # dotnet-architecture-playbook
 Repozytorium z informacjami o technologiach, błędach oraz jak je wykorzystywać  
 
-## Będę tutaj wstawiał:
+## Ma to być miejsce z treściami które ułatwią mi wracanie do rozwiązań, w razie jakby były mi potrzebne w przyszłości./ 
+zdarzało mi się czasem czegoś się nauczyć ale o czasie ponownie tego szukać w internecie, eięc wydaje mi się to bardziej przyszłościowe.
 
+## Będę tutaj wstawiał:
 - wyjaśnienia struktury 
 - Claas 
 - metod 
