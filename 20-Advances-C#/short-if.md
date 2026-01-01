@@ -3,6 +3,8 @@ warunek ? jeśli prawda : jeśli fałsz
 warunek ?? jeśli prawda
 
 ## Przykłady
+
+### Przykład 1
 ```
 int a = 5;
 a > 4 ? return a : return 4
@@ -12,6 +14,7 @@ jeśli a > 4 wypisuje a, natomiast jeśli równe lub mniejsze to wypisze 4.
 
 <br>
 
+### Przykład 2
 ```
 wordPasswordGeneratorInput = new
     (
@@ -23,5 +26,5 @@ wordPasswordGeneratorInput = new
         includeSymbolsLength: IncludeSymbols == true ? WordPasswordIncludeSymbolsLength : 0,
         includeFirstLetersUpercaseLength: IncludeFirstLittersUpercase == true ? WordPasswordIncludeFirstLetersUpercaseLength : 0
     );
-
 ```
+Fragment z mojego generatora haseł.
