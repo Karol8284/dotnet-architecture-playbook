@@ -1,7 +1,16 @@
 # Short if
 warunek ? jeśli prawda : jeśli fałsz <br>
-warunek ?? jeśli prawda
-
+<br>
+<br>
+string nazwa = "aaa";
+wynik =  nazwa ?? jeśli null to się wykona ta część
+<br>
+Jest jeszcze <br>
+```
+string nazwa = null;
+nazwa ??= "aaaaa"  
+```
+Jeśli nazwa jest null to ??= się wywoła.
 ## Przykłady
 
 ### Przykład 1
