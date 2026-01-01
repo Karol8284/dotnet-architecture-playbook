@@ -1,5 +1,5 @@
 # Short if
-warunek ? jeśli prawda : jeśli fałsz
+warunek ? jeśli prawda : jeśli fałsz <br>
 warunek ?? jeśli prawda
 
 ## Przykłady
