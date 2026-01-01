@@ -7,11 +7,11 @@ warunek ?? jeśli prawda
 int a = 5;
 a > 4 ? return a : return 4
 ```
-\
+
 jeśli a > 4 wypisuje a, natomiast jeśli równe lub mniejsze to wypisze 4.
 
 
-\
+/
 ```
 wordPasswordGeneratorInput = new
     (
