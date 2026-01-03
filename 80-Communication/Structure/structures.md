@@ -2,7 +2,8 @@
 ## MAUI 1
 Za pomocą MAUI można spokojnie robić aplikacje, gry na każde urządzenie. MAUI posiada wiele wad ale umożliwai takei rozwiązanie.
 - Blazor wizualia, UI, zadbanie o wygląd strony/aplikacji
-- 
+- SQL ( Najlepiej chyba urzyć sqlite3 do małych baz z danymi, choć jest dobra nawet do dużej. Istnieje możliwość zakodowania takiej bazy i łączenia się przez aplkacje, bardzo użyteczne do zapisywaniu zmian przez wysłaniem na serwer.
+-  
 
 
 
