@@ -1,4 +1,4 @@
-# Biblioteki i narzędzia UI/UX dla .NET MAUI i Blazor (WebAssembly i Hybrid) – analiza, porównanie i rekomendacje dla programistów .NET
+# (Moja Konwersacja z AI) Biblioteki i narzędzia UI/UX dla .NET MAUI i Blazor (WebAssembly i Hybrid) – analiza, porównanie i rekomendacje dla programistów .NET
 
 ---
 
