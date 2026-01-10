@@ -571,5 +571,46 @@ Pełny raport z porównaniami, przykładami i analizą wpływu na karierę już 
 - **Dodatki:** Mopups + Lottie → prywatne projekty, kreatywność, portfolio.  
 
 ---
+🔹 Szczegółowe omówienie
+1. MudBlazor.Templates
+- Co robi:
+- Dostarcza gotowe szablony Blazor z wbudowanym MudBlazor.
+- Zawiera prekonfigurowane layouty (AppBar, Drawer, responsywność).
+- Obsługuje różne tryby renderowania (Server, WebAssembly, Auto).
+- Ułatwia integrację z autoryzacją (np. Individual Authentication).
+- Kiedy się opłaca:
+- Jeśli chcesz szybko wystartować nowy projekt bez ręcznego konfigurowania MudBlazor.
+- Idealne do prototypów i nauki.
+- Źródło: GitHub MudBlazor Templates(4).
 
-Chcesz, żebym przygotował dla Ciebie **mini roadmapę** w formie tygodniowego planu nauki (np. tydzień 1: Toolkit, tydzień 2: MudBlazor, itd.), żebyś miał jasny harmonogram?
+2. MudBlazor.Markdown
+- Co robi:
+- Dodaje komponent do renderowania treści w formacie Markdown bezpośrednio w aplikacji Blazor.
+- Obsługuje nagłówki, listy, linki, kod, cytaty – wszystko zgodnie ze składnią Markdown.
+- Kiedy się opłaca:
+- Jeśli tworzysz aplikację, gdzie użytkownicy lub Ty chcesz wyświetlać dokumentację, notatki, opisy w Markdown.
+- Przykłady: menedżer haseł z notatkami, wiki, system ticketów.
+- Źródło: NuGet MudBlazor.Markdown.
+
+3. MudBlazor.FontIcons.MaterialSymbols
+- Co robi:
+- Dodaje zestaw ikon Material Symbols (nowsza wersja ikon Google Material Design).
+- Ikony są bardziej rozbudowane niż standardowe MudBlazor.Icons.Material.
+- Obsługuje różne style (outlined, rounded, sharp).
+- Kiedy się opłaca:
+- Jeśli chcesz mieć nowoczesny, bogaty zestaw ikon w UI.
+- Przydatne w aplikacjach typu dashboard, menedżer haseł, systemy biznesowe.
+- Źródło: MudBlazor Docs.
+
+🔹 Porównanie i opłacalność
+|  |  |  |  | 
+|  |  |  |  | 
+|  |  |  |  | 
+|  |  |  |  | 
+
+
+
+🎯 Wniosek
+- Templates: warto, jeśli często zaczynasz nowe projekty – oszczędza konfigurację.
+- Markdown: opłaca się, jeśli Twoje aplikacje mają treści tekstowe (wiki, notatki, opisy).
+- FontIcons.MaterialSymbols: bardzo polecane, jeśli chcesz nowoczesny wygląd i bogaty zestaw ikon.
