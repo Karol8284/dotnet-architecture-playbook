@@ -1,4 +1,6 @@
-# *! (AI) !*
+# Re używanie i integralność kodu w różnych projektach 
+
+## *! (AI) !*
 
 Twoje pytanie jest bardzo „senior‑level”, bo dotyka re-używalności, separacji odpowiedzialności i integracji między projektami — i to jest dokładnie ten moment, w którym większość midów zaczyna kopiować pliki, a seniorzy zaczynają budować pakiety, biblioteki i komponenty plug‑and‑play.
 
