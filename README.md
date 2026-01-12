@@ -12,4 +12,7 @@ zdarzało mi się czasem czegoś się nauczyć ale o czasie ponownie tego szuka�
 - działający kod 
 - błędy, errory, wyjąśnienia dlaczego takie są
 - jak rozwiązywałem te rpblemy
+- jak tworzyć biblioteki.Net jak i Razor
  - moje przemyślenia na powyższe tematy 
+
+# ** Niektóre fragmenty tworzone przy pomocy AI wszystkie są oznaczone
