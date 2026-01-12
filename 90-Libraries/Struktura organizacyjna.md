@@ -1,3 +1,8 @@
+
+# Jak tworzyć biblioteki z kodu
+## Miałem problem z tworzeniem kodu ktöry chcę zarówno mieć jako kod działający, oraz implementować go do innych projektów 
+
+## (AI)
 Poniżej masz skondensowaną checklistę architektoniczną, napisaną jak dla seniora, do spokojnego przeczytania i zastosowania.
 Bez teorii, bez dygresji. To jest operacyjny dokument.
 
