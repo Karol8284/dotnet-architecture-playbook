@@ -15,4 +15,4 @@ zdarzało mi się czasem czegoś się nauczyć ale o czasie ponownie tego szuka�
 - jak tworzyć biblioteki.Net jak i Razor
  - moje przemyślenia na powyższe tematy 
 
-# ** Niektóre fragmenty tworzone przy pomocy AI wszystkie są oznaczone
+# ** Niektóre fragmenty tworzone przy pomocy AI wszystkie są oznaczone **
