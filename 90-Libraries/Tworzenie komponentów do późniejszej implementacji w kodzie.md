@@ -1,3 +1,5 @@
+# ! (AI) !
+
 Twoje pytanie jest bardzo „senior‑level”, bo dotyka re-używalności, separacji odpowiedzialności i integracji między projektami — i to jest dokładnie ten moment, w którym większość midów zaczyna kopiować pliki, a seniorzy zaczynają budować pakiety, biblioteki i komponenty plug‑and‑play.
 
 Poniżej masz ocenę Twojego małego projektu oraz najlepszą możliwą drogę, żeby włączyć go do głównego projektu bez kopiowania kodu — tak jak robią to doświadczeni architekci.
